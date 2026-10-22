@@ -1,6 +1,6 @@
 ا
 
-Power BI Data Analysis Project
+Power BI  BANK CARDS PROJECT
 Project Overview
 This project focuses on data analysis and visualization using Microsoft Power BI. It presents key insights through an interactive dashboard designed to make data easier to understand.
 Tools Used
