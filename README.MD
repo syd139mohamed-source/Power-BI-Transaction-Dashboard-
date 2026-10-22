@@ -15,3 +15,6 @@ Present information through clear visualizations.
 Support better decision-making using data.
 Author
 Saeed Mohammed Said Gouda.
+
+## Dashboard preview
+
